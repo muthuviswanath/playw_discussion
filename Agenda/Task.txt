@@ -1,0 +1,5 @@
+Create a function that takes two inputs where the inputs are (base,exponent)
+if base is 2 and the exponent is 7, the output should be 128
+2 power 7 = 128
+Dont use exponentiation operator (**)
+Use for loop to achieve it

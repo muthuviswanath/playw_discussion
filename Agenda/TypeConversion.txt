@@ -1,0 +1,20 @@
+Anything to String:
+
+    value = String(another_value)
+
+To Number:
+
+    value               Converted Number
+    Undefined           NaN
+    true                1
+    false               0
+    String              escape sequence and space := 0
+                        alphabet / alphanumeric := NaN
+
+    Boolean:
+
+    let a = Boolean(1) // true
+    let b = Boolean(0) // false
+
+    let c= Boolean(""); //false
+    let d = Boolean(" "); // true

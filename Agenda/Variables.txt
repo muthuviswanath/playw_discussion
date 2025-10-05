@@ -1,0 +1,30 @@
+Variables:
+    It is a named storage.
+    Container to store the values.
+    It is also called as fields, properties, states, columns.
+
+Variables (Identifier) Rule:
+1. It cannot start with a number.
+2. It cannot contain white spaces.
+3. It cannot be a reserverd (keyword) word
+4. Only $ and _ are allowed special characters
+
+MasterData is governed by the domain
+
+Naming Conventions:
+    Variable name should be an adjective
+    Variable name should not be a single character
+    Always use lower camel case for the variables
+
+    let userName
+    let user_name
+
+Let:
+    The scope of the variable is at the block level.
+    Varaible re-assignment is possible
+Cosnt:
+    The scope of the variable is at the block level.
+    Varaible re-assignment is not possible
+Var:
+    The scope of the variable is at the global level.
+    Varaible re-redeclaration is possible

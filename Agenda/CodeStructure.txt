@@ -1,0 +1,19 @@
+Statement:
+Anything that gets processed and executed is called as statement.
+We can have more than one statement in a line but they have to be separated using (;)
+console.log("Hi"); console.log("Welcome");
+
+Semicolon:
+It is not mandatory to use semicolon to end the statement. 
+But when it involves complex processing as the one mentioned below, we need semicolon.
+
+Example:
+alert("Hello")
+[1,2].forEach(alert);
+
+Note: Always end the statement using semicolon.
+
+Comments:
+
+// Comment - Single line comment : Short cut - Ctrl + /
+/*....*/ - Multi line comment : Short cut - Ctlr + Shift + /

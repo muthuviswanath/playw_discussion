@@ -1,0 +1,23 @@
+Number:
+let n = 1234;
+let g = 3.12345;
+
+BigInt:
+Used to store numbers greater than +/- 2^53 - 1
+It is mandatory to add the suffix n to the number
+
+String:
+
+It can be represented using " or '
+To embed a string inside another string use backquote `${}`
+
+Boolean:
+
+true
+false
+
+Null:
+    If we are not going to assign any value of the previous data types.
+
+Undefined:
+    If the variable is not initialized with any value not even null.

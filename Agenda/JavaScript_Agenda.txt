@@ -1,0 +1,24 @@
+Introduction
+    - Installation and Setup
+    - Code Structure
+    - Strict mode
+    - Variables
+    - DataTypes
+    - Interactions - Alert, Prompt, Confirmation
+    - Type Conversion
+    - Operators, Maths
+    - Nullis coalescing Operators
+    - Control Statements (if, switch)
+    - Functions
+    - Arrow Functions
+    - Javascript Specials
+
+- Write it inside HTML page
+ <script>
+    console.log
+ </script>
+
+ Javascript as a programming tool:
+ - PreRequisites:
+    - NodeJs
+    - Filename.js (Java Scritp - Source File)

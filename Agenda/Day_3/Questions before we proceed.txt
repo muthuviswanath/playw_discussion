@@ -1,0 +1,9 @@
+If i want to write two executable statement in one line what do i need to do?
+;
+is it mandatory to use semicolon?
+Not mandatory but is it advisable?
+It is advisable
+
+console.log("Hi")
+[1,2,3,4,5].forEach(console.log());
+

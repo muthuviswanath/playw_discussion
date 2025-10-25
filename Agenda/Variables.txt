@@ -22,9 +22,11 @@ Naming Conventions:
 Let:
     The scope of the variable is at the block level.
     Varaible re-assignment is possible
+    Variable re-declaration is not possible
 Cosnt:
     The scope of the variable is at the block level.
     Varaible re-assignment is not possible
+    Variable re-declaration is not possible
 Var:
     The scope of the variable is at the global level.
     Varaible re-redeclaration is possible

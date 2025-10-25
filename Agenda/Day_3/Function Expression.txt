@@ -1,0 +1,9 @@
+function display(){
+    console.log("Hi")
+}
+
+let greetings  = function(){
+    console.log("Hi");
+};
+
+greetings()

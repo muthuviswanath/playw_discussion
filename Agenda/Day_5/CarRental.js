@@ -1,0 +1,6 @@
+/*A car rental company wants to display the data about the car rental.
+Create a class called RentalCars and make sure the class is having
+the properties brand and perdayrental. Initialize the variables
+using the constructor. create a method called rentalInfo and display
+the details.
+*/

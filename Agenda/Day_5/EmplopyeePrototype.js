@@ -40,3 +40,26 @@ let userProto = {
     }
 }
 */
+
+let userProto = {
+    role:"default",
+    name:"username",
+    login : function(){
+        console.log(`${this.role} ${this.name} has logged in`)
+    }
+}
+
+let adminuser = Object.create(userProto);
+adminuser.role = "Admin";
+adminuser.name = "Robert";
+adminuser.login();
+
+let manageruser = Object.create(userProto);
+manageruser.role = "Manager";
+manageruser.name = "Alice";
+manageruser.login();
+
+let empuser = Object.create(userProto);
+empuser.role = "Employee";
+empuser.name = "John";
+empuser.login();

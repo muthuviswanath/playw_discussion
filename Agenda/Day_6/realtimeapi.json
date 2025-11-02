@@ -1,0 +1,51 @@
+{
+    "Theatre Name":"PVR Cinemas",
+    "Elite":[
+        [
+            {"SeatNo":"A1","Status":"Booked", "Price":670},
+            {"SeatNo":"A2","Status":"Booked", "Price":670},
+            {"SeatNo":"A3","Status":"Available", "Price":670},
+            {"SeatNo":"A4","Status":"Available", "Price":670},
+            {"SeatNo":"A5","Status":"Booked", "Price":670}
+        ],
+        [
+            {"SeatNo":"B1","Status":"Booked", "Price":670},
+            {"SeatNo":"B2","Status":"Booked", "Price":670},
+            {"SeatNo":"B3","Status":"Available", "Price":670},
+            {"SeatNo":"B4","Status":"Available", "Price":670},
+            {"SeatNo":"B5","Status":"Available", "Price":670}
+        ]
+    ],
+    "Normal":[
+        [
+            {"SeatNo":"C1","Status":"Booked", "Price":370},
+            {"SeatNo":"C2","Status":"Booked", "Price":370},
+            {"SeatNo":"C3","Status":"Booked", "Price":370},
+            {"SeatNo":"C4","Status":"Booked", "Price":370},
+            {"SeatNo":"C5","Status":"Booked", "Price":370}
+        ],
+        [
+            {"SeatNo":"D1","Status":"Booked", "Price":370},
+            {"SeatNo":"D2","Status":"Booked", "Price":370},
+            {"SeatNo":"D3","Status":"Booked", "Price":370},
+            {"SeatNo":"D4","Status":"Available", "Price":370},
+            {"SeatNo":"D5","Status":"Booked", "Price":370}
+        ]
+    ],
+    "Economy":[
+        [
+            {"SeatNo":"E1","Status":"Booked", "Price":170},
+            {"SeatNo":"E2","Status":"Booked", "Price":170},
+            {"SeatNo":"E3","Status":"Booked", "Price":170},
+            {"SeatNo":"E4","Status":"Booked", "Price":170},
+            {"SeatNo":"E5","Status":"Booked", "Price":170}
+        ],
+        [
+            {"SeatNo":"F1","Status":"Booked", "Price":170},
+            {"SeatNo":"F2","Status":"Booked", "Price":170},
+            {"SeatNo":"F3","Status":"Booked", "Price":170},
+            {"SeatNo":"F4","Status":"Booked", "Price":170},
+            {"SeatNo":"F5","Status":"Booked", "Price":170}
+        ]
+    ]
+}

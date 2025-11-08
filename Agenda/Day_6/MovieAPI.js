@@ -54,3 +54,4 @@ let pvrcinemas = JSON.parse(jsonString);
 console.log(pvrcinemas.TheatreName)
 console.log(pvrcinemas.Elite[0][3])
 console.log(`Economy Ticket Price: ${pvrcinemas.Economy[0][2].Price}`)
+

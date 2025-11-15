@@ -1,0 +1,8 @@
+Symbol is a primitive datatype introduced in ES6
+It is used to create unique identifiers even if they have same description
+
+Symbol Keys don't get displayed in:
+
+for... in
+Object.keys()
+JSON.stringify()

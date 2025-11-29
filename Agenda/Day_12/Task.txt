@@ -1,0 +1,11 @@
+Create a calss called File and creat the following sub class for the same
+
+class SupportedFiles extends File
+
+Create a class called Photoshop and create a method that takes (File f) as an argument
+if the passed file object is image file with extension png then display the extra information
+Opened as layer
+if the passed file object is image file with extension jpg then display the extra information
+Opened as flat image
+if the passed file object is image file with extension pdf then display the extra information
+Opened as layer but with transparent background
